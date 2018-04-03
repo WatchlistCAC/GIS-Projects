@@ -1,1 +1,1 @@
-WatchlistCAC.github.io/GIS-projects
+GIS-Projects.github.io
